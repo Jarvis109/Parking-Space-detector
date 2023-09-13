@@ -1,0 +1,33 @@
+numpy
+scipy
+Pillow
+cython
+matplotlib
+scikit-image
+tensorflow>=1.3.0
+keras>=2.0.8
+opencv-python
+h5py
+imgaug
+IPython[all]
+
+#PLUS ##
+
+import base64
+import io
+import keras.engine.topology as KE
+import numpy as np
+import shapely
+from shapely.geometry import polygon as shapely_poly
+from shapely.geometry import box
+import argparse
+import pickle
+import pathlib
+from pathlib import Path
+import mrcnn
+from mrcnn.model import MaskRCNN
+import mrcnn.utils
+import mrcnn.config
+import cv2
+import git
+import os
