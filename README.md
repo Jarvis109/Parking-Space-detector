@@ -1,6 +1,5 @@
 # Parking Space Detection
 
-![Parking Space Detection](parking-space-detection.jpg)
 
 ## Overview
 
